@@ -1,3 +1,4 @@
+# You can intialise password as per you ;)
 password = 1729
 
 chances = 4
